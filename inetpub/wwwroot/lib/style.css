@@ -11,7 +11,7 @@ body {
 }
 .WrapperIn {
 	width:100%;
-	height: 1000px;
+	height: 850px;
 	background:url(../images/header_01.jpg) no-repeat 0 0;
 	position: relative;
 }
@@ -20,7 +20,7 @@ body {
 
 #header {
 	position:relative;
-	height: 615px;
+	height: 800px;
 	overflow:hidden;
 }
 .Logo {
@@ -167,17 +167,47 @@ textarea {
 .PlayNow:visited {
 	background:url(../images/play-now.png) no-repeat; 
 	text-indent:-9999px;
-	width:139px;
+	width:300px;
 	height:139px;
 	display:block;
 	position: absolute;
 	z-index: 1;
-	left: 644px;
-	top: 182px;
+	left: 640px;
+	top: 570px;
 }
 .PlayNow:hover {
-	background-position:-141px 0
+    transform: scale(1.01);
+    will-change: transform;
 }
+.BrowerFlash:link,
+.BrowerFlash:visited {
+	background:url(../images/brower-flash.png) no-repeat; 
+	text-indent:-9999px;
+	width:300px;
+	height:139px;
+	display:block;
+	position: absolute;
+	z-index: 1;
+	left: 700px;
+	top: 690px;
+}
+.BrowerFlash:hover {
+    transform: scale(1.01);
+    will-change: transform;
+}
+
+.mySign {
+	font-family: 'Courier New', Courier, monospace;
+}
+
+.readme {
+	font-size: 20px;
+	position: absolute;
+	z-index: 1;
+	left: 520px;
+	top: 670px;
+}
+
 .Hot1:link,
 .Hot1:visited {
 	background:url(../images/menu.jpg) 0 -29px no-repeat; 
@@ -331,8 +361,6 @@ textarea {
 	background: url(../images/spacer.gif) no-repeat;
 	height:53px;
 	width: 40px;
-	float:left;
-	text-indent:-9999px;
 }
 .Vng {
 	background: url(../images/spacer.gif) no-repeat;

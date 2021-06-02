@@ -1,1 +1,35 @@
 *.log
+*.log
+*.log
+inetpub/wwwroot/Request/logs/Error.log
+inetpub/wwwroot/Request/logs/Error.log.1
+inetpub/wwwroot/Request/logs/Error.log.10
+inetpub/wwwroot/Request/logs/Error.log.2
+inetpub/wwwroot/Request/logs/Error.log.6
+inetpub/wwwroot/Request/logs/Error.log.7
+inetpub/wwwroot/Request/logs/Error.log.8
+inetpub/wwwroot/Request/logs/Error.log.9
+inetpub/wwwroot/Request/logs/Error.log
+inetpub/wwwroot/Request/logs/Error.log.1
+inetpub/wwwroot/Request/logs/Error.log.2
+Server/Center/logs/Error.log.5
+Server/Center/logs/Error.log.6
+Server/Fight/logs/Error.log.5
+Server/Fight/logs/Error.log.6
+inetpub/wwwroot/Request/logs/Error.log
+inetpub/wwwroot/Request/logs/Error.log.1
+inetpub/wwwroot/Request/logs/Error.log.2
+Server/Road/logs/Error.log
+Server/Road/logs/Error.log.1
+Server/Road/logs/Error.log.2
+Server/Road/logs/Error.log.3
+Server/Road/logs/Error.log.4
+Server/Road/logs/Error.log.5
+Server/Road/logs/Error.log.6
+Server/Road/logs/Error.log.7
+Server/Road/logs/GameServer.log
+*.log
+inetpub/logs/LogFiles/W3SVC1/u_ex210602.log
+inetpub/temp/IIS Temporary Compressed Files/DefaultAppPool/$^_gzip_C^/INETPUB/WWWROOT/INDEX.HTML
+inetpub/temp/IIS Temporary Compressed Files/DefaultAppPool/$^_gzip_C^/INETPUB/WWWROOT/LIB/STYLE.CSS
+inetpub/wwwroot/gunny/attachfile/PaleMoon_FlashPlayer.zip
