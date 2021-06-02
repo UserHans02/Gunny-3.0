@@ -1,0 +1,40 @@
+15:23:27,781 - [12] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in E:\lamviec2\Game.Server\Packets\PacketProcessor.cs:line 37
+   at Game.Server.GameClient.OnRecvPacket(GSPacketIn pkg) in E:\lamviec2\Game.Server\GameClient.cs:line 113
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in C:\Documents and Settings\Administrator.KUPIN-PC\My Documents\Reflector\Disassembler\Game.Base\Packets\StreamProcessor.cs:line 387
+15:40:49,109 - [12] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+   at Game.Server.GameClient.OnRecvPacket(GSPacketIn pkg)
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in C:\Documents and Settings\Administrator.KUPIN-PC\My Documents\Reflector\Disassembler\Game.Base\Packets\StreamProcessor.cs:line 387
+15:44:24,500 - [12] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+   at Game.Server.GameClient.OnRecvPacket(GSPacketIn pkg)
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in C:\Documents and Settings\Administrator.KUPIN-PC\My Documents\Reflector\Disassembler\Game.Base\Packets\StreamProcessor.cs:line 387
+15:44:45,890 - [26] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+   at Game.Server.GameClient.OnRecvPacket(GSPacketIn pkg)
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in C:\Documents and Settings\Administrator.KUPIN-PC\My Documents\Reflector\Disassembler\Game.Base\Packets\StreamProcessor.cs:line 387
+15:46:43,625 - [12] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+   at Game.Server.GameClient.OnRecvPacket(GSPacketIn pkg)
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in C:\Documents and Settings\Administrator.KUPIN-PC\My Documents\Reflector\Disassembler\Game.Base\Packets\StreamProcessor.cs:line 387
+15:49:18,578 - [12] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+   at Game.Server.GameClient.OnRecvPacket(GSPacketIn pkg)
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in C:\Documents and Settings\Administrator.KUPIN-PC\My Documents\Reflector\Disassembler\Game.Base\Packets\StreamProcessor.cs:line 387
+15:50:05,593 - [26] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+   at Game.Server.GameClient.OnRecvPacket(GSPacketIn pkg)
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in C:\Documents and Settings\Administrator.KUPIN-PC\My Documents\Reflector\Disassembler\Game.Base\Packets\StreamProcessor.cs:line 387
+16:22:51,843 - [26] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+   at Game.Server.GameClient.OnRecvPacket(GSPacketIn pkg)
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in C:\Documents and Settings\Administrator.KUPIN-PC\My Documents\Reflector\Disassembler\Game.Base\Packets\StreamProcessor.cs:line 387

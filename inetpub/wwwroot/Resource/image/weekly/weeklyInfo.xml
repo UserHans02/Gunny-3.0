@@ -1,0 +1,23 @@
+<Result value="true" message="Success!" webPath="image/" edition="6" editor="第七大道" nextDate="20111014" soundName="201104140245247823.flv" title="第六期" remark="第六期" isAuto="0">
+  <item type="small" path="2011814143419968.jpg" targetCategory="0" targetPage="0" />
+  <item type="small" path="2011814143654968.jpg" targetCategory="0" targetPage="1" />
+  <item type="small" path="2011814143738531.jpg" targetCategory="0" targetPage="2" />
+  <item type="big" path="2011814143430765.jpg" targetCategory="0" targetPage="0" />
+  <item type="big" path="201181414370687.jpg" targetCategory="0" targetPage="1" />
+  <item type="big" path="2011814143742812.jpg" targetCategory="0" targetPage="2" />
+  <item type="big" path="2011814143826609.jpg" targetCategory="0" targetPage="3" />
+  <item type="big" path="2011814143833218.jpg" targetCategory="0" targetPage="4" />
+  <item type="category0" path="2011814143438125.jpg" thumbnailPath="2011814143442890.jpg" targetCategory="0" targetPage="0" />
+  <item type="category0" path="201181414376250.jpg" thumbnailPath="201181414379328.jpg" targetCategory="0" targetPage="0" />
+  <item type="category0" path="2011814143748484.jpg" thumbnailPath="2011814143751812.jpg" targetCategory="0" targetPage="0" />
+  <item type="category0" path="2011814143842578.jpg" thumbnailPath="null" targetCategory="0" targetPage="0" />
+  <item type="category0" path="2011814143848843.jpg" thumbnailPath="null" targetCategory="0" targetPage="0" />
+  <item type="category1" path="201181414395890.jpg" thumbnailPath="null" targetCategory="0" targetPage="0" />
+  <item type="category1" path="2011814143913218.jpg" thumbnailPath="null" targetCategory="0" targetPage="0" />
+  <item type="category1" path="2011814143916843.jpg" thumbnailPath="null" targetCategory="0" targetPage="0" />
+  <item type="category2" path="2011814143925968.jpg" thumbnailPath="null" targetCategory="0" targetPage="0" />
+  <item type="category2" path="2011814143929937.jpg" thumbnailPath="null" targetCategory="0" targetPage="0" />
+  <item type="category3" path="2011814143934812.jpg" thumbnailPath="null" targetCategory="0" targetPage="0" />
+  <item type="category3" path="2011814143938578.jpg" thumbnailPath="null" targetCategory="0" targetPage="0" />
+  <item type="category3" path="2011814143942328.jpg" thumbnailPath="null" targetCategory="0" targetPage="0" />
+</Result>

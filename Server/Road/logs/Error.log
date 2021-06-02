@@ -1,0 +1,7 @@
+05:15:02,756 - [4] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+   at Game.Server.GameClient.OnRecvPacket(GSPacketIn pkg)
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes)
+05:20:17,282 - [4] - ERROR - Game.Server.GameServer - Center Server Disconnect! Stopping Server
+05:20:17,282 - [4] - ERROR - Game.Server.GameServer - Start the game server again after 1 second,and left try times:3

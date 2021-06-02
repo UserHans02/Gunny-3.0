@@ -1,0 +1,7 @@
+13:10:18,934 - [MAIN] - ERROR - Game.Base.BaseConnector - Connect 10.0.10.7:9202 failed!
+13:13:16,848 - [5] - ERROR - Game.Server.GameServer - PingCheck center callback
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Base.Packets.StreamProcessor.SendTCP(GSPacketIn packet)
+   at Game.Base.BaseClient.SendTCP(GSPacketIn pkg)
+   at Game.Server.LoginServerConnector.SendPingCenter()
+   at Game.Server.GameServer.PingCheck(Object sender)

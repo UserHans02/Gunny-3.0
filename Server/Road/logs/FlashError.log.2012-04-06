@@ -1,0 +1,168 @@
+2012-04-06 10:09:11,828 - client log:Error #1065
+null
+2012-04-06 10:09:22,406 - client log:Error #1065
+null
+2012-04-06 10:10:10,718 - client log:Error #1065
+null
+2012-04-06 10:10:14,625 - client log:Error #1065
+null
+10:10:18,703 - client log:Error #1065
+null
+10:10:32,890 - client log:Error #1065
+null
+2012-04-06 10:10:38,046 - client log:Error #1065
+null
+2012-04-06 10:10:58,984 - client log:Error #1065
+null
+2012-04-06 10:11:06,484 - client log:Error #1065
+null
+2012-04-06 10:11:17,078 - client log:Error #1065
+null
+10:11:25,640 - client log:Error #1065
+null
+2012-04-06 10:11:29,171 - client log:Error #1065
+null
+2012-04-06 10:11:32,281 - client log:Error #1065
+null
+10:12:08,359 - client log:Error #1065
+null
+10:12:08,812 - client log:Error #1065
+null
+10:20:30,218 - client log:Error #1065
+null
+10:24:16,781 - client log:Error #1065
+null
+10:24:30,687 - client log:Error #1065
+null
+2012-04-06 10:24:38,187 - client log:Error #1065
+null
+2012-04-06 10:24:38,890 - client log:Error #1065
+null
+2012-04-06 10:26:37,031 - client log:Error #1065
+null
+10:33:35,359 - client log:Error #1065
+null
+10:33:40,625 - client log:Error #1065
+null
+10:33:41,312 - client log:Error #1065
+null
+10:33:42,312 - client log:Error #1065
+null
+10:33:43,828 - client log:Error #1065
+null
+10:33:50,515 - client log:Error #1065
+null
+10:34:25,531 - client log:Error #1065
+null
+10:34:44,828 - client log:Error #1065
+null
+10:35:09,937 - client log:Error #1065
+null
+10:35:10,375 - client log:Error #1065
+null
+10:35:50,734 - client log:Error #1065
+null
+10:35:51,125 - client log:Error #1065
+null
+10:46:54,328 - client log:ModuleLoader.hasDefinition(BallManager.solveBallWeaponMovieName(info.currentDeputyWeaponInfo.ballId)) false
+
+2012-04-06 18:46:54,109 - client log:Error #1065
+null
+18:47:03,093 - client log:Error #1065
+null
+18:49:32,062 - client log:Error #1065
+null
+18:49:35,656 - client log:Error #1065
+null
+2012-04-06 18:58:47,281 - client log:Error #1065
+null
+2012-04-06 18:58:53,343 - client log:Error #1065
+null
+18:58:58,484 - client log:Error #1065
+null
+2012-04-06 19:02:09,015 - client log:Error #1065
+null
+19:16:22,203 - client log:Error #1065
+null
+19:25:28,840 - client log:Error #1065
+null
+19:25:31,450 - client log:Error #1065
+null
+2012-04-06 19:25:39,106 - client log:Error #1065
+null
+19:26:06,465 - client log:Error #1065
+null
+19:26:06,653 - client log:Error #1065
+null
+19:26:15,965 - client log:Error #1065
+null
+19:26:26,934 - client log:Error #1065
+null
+19:26:30,903 - client log:Error #1065
+null
+19:26:37,247 - client log:Error #1065
+null
+19:26:39,856 - client log:Error #1065
+null
+19:27:05,622 - client log:Error #1065
+null
+2012-04-06 19:27:16,012 - client log:Error #1065
+null
+19:27:20,481 - client log:Error #1065
+null
+19:28:05,059 - client log:Error #1065
+null
+19:28:09,606 - client log:Error #1065
+null
+19:28:11,950 - client log:Error #1065
+null
+19:28:32,637 - client log:Error #1065
+null
+19:28:35,606 - client log:Error #1065
+null
+19:28:45,856 - client log:Error #1065
+null
+19:28:46,090 - client log:Error #1065
+null
+19:28:59,840 - client log:Error #1065
+null
+19:29:31,200 - client log:Error #1065
+null
+19:29:40,122 - client log:Error #1065
+null
+19:29:53,512 - client log:Error #1065
+null
+19:30:18,965 - client log:Error #1065
+null
+19:31:43,231 - client log:Error #1065
+null
+19:31:43,575 - client log:Error #1065
+null
+20:38:39,450 - client log:ModuleLoader.hasDefinition(BallManager.solveBallWeaponMovieName(info.currentDeputyWeaponInfo.ballId)) false
+
+20:43:27,059 - client log:ModuleLoader.hasDefinition(BallManager.solveBallWeaponMovieName(info.currentDeputyWeaponInfo.ballId)) false
+
+20:43:56,543 - client log:ModuleLoader.hasDefinition(BallManager.solveBallWeaponMovieName(info.currentDeputyWeaponInfo.ballId)) false
+
+20:45:05,278 - client log:Error #1065
+null
+20:45:13,793 - client log:Error #1065
+null
+20:45:42,481 - client log:Error #1065
+null
+20:46:50,575 - client log:Error #1065
+null
+20:47:06,528 - client log:ModuleLoader.hasDefinition(BallManager.solveBallWeaponMovieName(info.currentDeputyWeaponInfo.ballId)) false
+
+20:47:07,887 - client log:ModuleLoader.hasDefinition(BallManager.solveBallWeaponMovieName(info.currentDeputyWeaponInfo.ballId)) false
+
+20:49:59,950 - client log:Error #1065
+null
+20:51:08,809 - client log:Error #1065
+null
+20:51:30,965 - client log:Error #1065
+null
+20:51:40,137 - client log:Error #1065
+null
+20:51:58,934 - client log:Error #1065
+null

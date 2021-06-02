@@ -1,0 +1,11 @@
+arm------武器目录
+	dart(飞标)
+		0--武器前(包括：show,game,consortia)
+		1---武器后(包括:game,consortia)
+		(icon)
+	bomb(大炮)
+		0---
+		1---
+		(icon)
+
+	.............

@@ -1,0 +1,404 @@
+body {
+	background:url(../images/bgd_wrapper_footer_repeat_x.jpg) repeat-x 0 100% scroll #fef3ab;
+	color: #663300;
+}
+#wrapper {
+	background:url(../images/bgd_wrapper_repeat_x.jpg) repeat-x;
+	width:100%;
+}
+.WrapperOut {
+	width:100%;
+}
+.WrapperIn {
+	width:100%;
+	height: 1000px;
+	background:url(../images/header_01.jpg) no-repeat 0 0;
+	position: relative;
+}
+
+
+
+#header {
+	position:relative;
+	height: 615px;
+	overflow:hidden;
+}
+.Logo {
+	width: 181px;
+	height: 82px;
+	text-indent:-9999px;
+	margin: 31px 0 0 16px;
+	display: block;
+}
+.TopLink {
+	position:absolute;
+	z-index:2;
+	top: 4px;
+	left: 527px;
+}
+.TopLink ul {
+	overflow:hidden
+}
+.TopLink ul li {
+	float: left;
+	font-size: 11px;
+	list-style-type: none;
+	color:white;
+	font-weight:bold;
+}
+.TopLink ul li a:link, .TopLink ul li a:visited {
+	color: white;
+	font-size:11px;
+	padding: 0 6px;
+}
+.TopLink ul li a:hover, .TopLink ul li.Hilite a:link, .TopLink ul li.Hilite a:visited {
+	text-decoration:underline;
+	color:white
+}
+.Left-side {
+	width:205px;
+	float:left
+}
+.container { width:780px;
+	float:left
+}
+
+.discription{ color:#8b4500; font-size:13px; font-weight:bold}
+#nav {
+	overflow:hidden;
+	display:block;
+	margin: 17px 0 0;
+}
+#nav li {
+	float:left;
+}
+#nav li a {
+	display: block;
+	float:left;
+	text-indent: -9999px;
+	background: url(../images/nav.png) 0 0 no-repeat;
+	height:70px;
+}
+#nav li.Off a, #nav li.Off a:hover {
+	cursor:default
+}
+
+#nav li a.Nav01 {
+	background-position: 0 0;
+	width: 186px;
+}
+#nav li a.Nav02 {
+	background-position: 0 -70px;
+	width: 186px;
+}
+#nav li a.Nav03 {
+	background-position:0 -140px;
+	width: 170px;
+}
+#nav li a.Nav04 {
+	background-position:0 -210px;
+	width:200px;
+}
+#nav li a.Nav05 {
+	background-position:0 -280px;
+	width:205px;
+}
+#nav li a.Nav06 {
+	background-position:0 -350px;
+	width:205px;
+}
+/*hover*/
+#nav li a.Nav01:hover,#nav li.Hilite a.Nav01 {
+	background-position:-240px 0;
+}
+#nav li a.Nav02:hover ,#nav li.Hilite a.Nav02{
+	background-position:-240px -70px;
+}
+#nav li a.Nav03:hover,#nav li.Hilite a.Nav03 {
+	background-position:-240px -140px;
+}
+#nav li a.Nav04:hover,#nav li.Hilite a.Nav04 {
+	background-position:-240px -210px;
+}
+#nav li a.Nav05:hover,#nav li.Hilite a.Nav05 {
+	background-position:-240px -280px;
+}
+#nav li a.Nav06:hover,#nav li.Hilite a.Nav06 {
+	background-position:-240px -350px;
+}
+/*Off*/
+#nav li.Off a.Nav01, #nav li.Off a:hover.Nav01 {
+	background-position:-480px 0;
+}
+#nav li.Off a.Nav02, #nav li.Off a:hover.Nav02 {
+	background-position:-480px -70px;
+}
+#nav li.Off a.Nav03, #nav li.Off a:hover.Nav03 {
+	background-position:-480px -140px;
+}
+#nav li.Off a.Nav04, #nav li.Off a:hover.Nav04 {
+	background-position:-480px -210px;
+}
+#nav li.Off a.Nav05, #nav li.Off a:hover.Nav05 {
+	background-position:-480px -280px;
+}
+#nav li.Off a.Nav06, #nav li.Off a:hover.Nav06 {
+	background-position:-480px -350px;
+}
+/*Begin Btn*/
+input.BtnLogin, input.BtnAgree, input.BtnReset {
+	width:auto;
+	margin: 10px 10px 0 0;
+}
+input.pos-01 {
+	margin-left:169px;
+}
+textarea {
+	resize:none
+}
+/*End Btn*/
+#block-left {
+	position:absolute;
+	top: 47px;
+	left:618px;
+	width: 160px;
+}
+.PlayNow:link,
+.PlayNow:visited {
+	background:url(../images/play-now.png) no-repeat; 
+	text-indent:-9999px;
+	width:139px;
+	height:139px;
+	display:block;
+	position: absolute;
+	z-index: 1;
+	left: 644px;
+	top: 182px;
+}
+.PlayNow:hover {
+	background-position:-141px 0
+}
+.Hot1:link,
+.Hot1:visited {
+	background:url(../images/menu.jpg) 0 -29px no-repeat; 
+	text-indent:-9999px;
+	width: 182px;
+	height: 205px;
+	display: block;
+	position: absolute;
+	z-index: 1;
+	left: 23px;
+	top: 359px;
+}
+.Hot1:hover {
+	background:url(../images/menu-hover.jpg) 0 -29px no-repeat; 
+}
+.Hot1Off:link,
+.Hot1Off:visited,
+.Hot1Off:hover {
+	background:url(../images/menu-off.jpg) 0 -29px no-repeat; 
+	text-indent:-9999px;
+	width: 182px;
+	height: 205px;
+	display: block;
+	position: absolute;
+	z-index: 1;
+	left: 23px;
+	top: 359px;
+	cursor: default;
+}
+
+
+.Hot2:link,
+.Hot2:visited {
+	background:url(../images/menu.jpg) -182px -59px no-repeat; 
+	text-indent:-9999px;
+	width: 194px;
+	height: 195px;
+	display: block;
+	position: absolute;
+	z-index: 1;
+	left: 205px;
+	top: 389px;
+}
+.Hot2:hover {
+	background:url(../images/menu-hover.jpg) -182px -59px  no-repeat; 
+}
+.Hot2Off:link,
+.Hot2Off:visited,
+.Hot2Off:hover {
+	background:url(../images/menu-off.jpg) -182px -59px  no-repeat; 
+	text-indent:-9999px;
+	width: 194px;
+	height: 195px;
+	display: block;
+	position: absolute;
+	z-index: 1;
+	left: 205px;
+	top: 389px;
+	cursor: default;
+}
+
+.Hot3:link,
+.Hot3:visited {
+	background:url(../images/menu.jpg) -376px -29px no-repeat; 
+	text-indent:-9999px;
+	width: 190px;
+	height: 218px;
+	display: block;
+	position: absolute;
+	z-index: 1;
+	left: 399px;
+	top: 359px;
+}
+.Hot3:hover {
+	background:url(../images/menu-hover.jpg) -376px -29px no-repeat; 
+}
+.Hot3Off:link,
+.Hot3Off:visited,
+.Hot3Off:hover {
+	background:url(../images/menu-off.jpg) -376px -29px no-repeat; 
+	text-indent:-9999px;
+	width: 190px;
+	height: 218px;
+	display: block;
+	position: absolute;
+	z-index: 1;
+	left: 399px;
+	top: 359px;
+	cursor: default;
+}
+
+.Hot4:link,
+.Hot4:visited {
+	background:url(../images/menu.jpg) -566px -0px no-repeat; 
+	text-indent:-9999px;
+	width: 186px;
+	height: 205px;
+	display: block;
+	position: absolute;
+	z-index: 1;
+	left: 589px;
+	top: 330px;
+}
+.Hot4:hover {
+	background:url(../images/menu-hover.jpg) -566px -0px no-repeat; 
+}
+.Hot4Off:link,
+.Hot4Off:visited,
+.Hot4Off:hover {
+	background:url(../images/menu-off.jpg) -566px -0px no-repeat; 
+	text-indent:-9999px;
+	width: 186px;
+	height: 205px;
+	display: block;
+	position: absolute;
+	z-index: 1;
+	left: 589px;
+	top: 330px;
+	cursor: default;
+}
+
+
+
+
+/*Footer*/
+#Footer {
+	clear:both;
+	overflow:hidden;
+	height: 69px;
+	padding: 20px 0 0 223px;
+	width: 700px;
+}
+#Footer p {
+	overflow:hidden;
+	font: 11px/17px Tahoma;
+	color: black;
+	padding: 10px 0 0;
+	text-align: center;
+	width: 455px;
+	float: left;
+}
+.ZingMe {
+	background: url(../images/spacer.gif) no-repeat;
+	height:53px;
+	width: 40px;
+	float:left;
+	margin: 0 10px 0 0;
+	text-indent:-9999px;
+}
+.FB {
+	background: url(../images/spacer.gif) no-repeat;
+	height:53px;
+	width: 40px;
+	float:left;
+	text-indent:-9999px;
+}
+.Vng {
+	background: url(../images/spacer.gif) no-repeat;
+	height:53px;
+	width: 37px;
+	float:left;
+	margin: 0 25px 0 0;
+	text-indent:-9999px;
+}
+.SevenRoad {
+	background: url(../images/spacer.gif) no-repeat;
+	height:30px;
+	float:left;
+	margin: 12px 10px 0 0;
+	text-indent:-9999px;
+	width: 30px;
+}
+.QuickReg{
+	background: none;
+	overflow: hidden;
+	padding-top: 36px;
+	position: absolute;
+	z-index: 1000;
+	height: 410px;
+	width: 440px;
+	padding: 0;	
+}
+.QuickReg .SurveyClose{
+	background: url(http://img.zing.vn/gn/images/landingpage/gunny3.4/images/close1.gif) no-repeat;	
+	height: 23px;
+	left: 384px;
+	top: 23px;
+	width: 25px;
+	position: absolute;
+	display: block;
+	text-indent: -1000em;
+}
+.QuickReg .SurveyContent{
+	height: auto;
+	overflow: hidden;
+	padding: 0 0 0 20px;
+	width: auto;	
+}
+.QuickVideo{
+	background: none;
+	overflow: hidden;
+	padding-top: 36px;
+	position: absolute;
+	z-index: 1000;
+	height: 416px;
+	width: 768px;
+	padding: 0;	
+}
+.QuickVideo .SurveyClose{
+	background: url(http://img.zing.vn/gn/images/landingpage/gunny3.4/images/close.png) no-repeat;	
+	height: 23px;
+	left: 740px;
+	top: 0px;
+	width: 25px;
+	position: absolute;
+	display: block;
+	text-indent: -1000em;
+}
+.QuickVideo .SurveyContent{
+	height: auto;
+	overflow: hidden;
+	padding: 0 0 0 20px;
+	width: auto;	
+}

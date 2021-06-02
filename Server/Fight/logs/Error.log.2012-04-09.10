@@ -1,0 +1,294 @@
+21:05:02,833 - [6] - ERROR - Game.Logic.BaseGame - Map update error:
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Game.Logic.BaseGame.GetPlayerPoint(MapPoint mapPos, Int32 team) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\BaseGame.cs:line 461
+   at Game.Logic.PVPGame.StartGame() in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\PVPGame.cs:line 135
+   at Game.Logic.Actions.CheckPVPGameStateAction.Execute(BaseGame game, Int64 tick) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Actions\CheckPVPGameStateAction.cs:line 38
+   at Game.Logic.BaseGame.Update(Int64 tick) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\BaseGame.cs:line 697
+21:06:22,990 - [3] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Logic.PVPGame.RemovePlayer(IGamePlayer gp, Boolean IsKick) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\PVPGame.cs:line 584
+   at Fighting.Server.ServerClient.HandlePlayerExit(GSPacketIn pkg) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Fighting.Server\Servers\ServerClient.cs:line 115
+   at Fighting.Server.ServerClient.OnRecvPacket(GSPacketIn pkg) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Fighting.Server\Servers\ServerClient.cs:line 69
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\Packets\StreamProcessor.cs:line 387
+21:06:27,380 - [6] - ERROR - Game.Logic.BaseGame - Map update error:
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Game.Logic.BaseGame.GetPlayerPoint(MapPoint mapPos, Int32 team) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\BaseGame.cs:line 461
+   at Game.Logic.PVPGame.StartGame() in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\PVPGame.cs:line 135
+   at Game.Logic.Actions.CheckPVPGameStateAction.Execute(BaseGame game, Int64 tick) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Actions\CheckPVPGameStateAction.cs:line 38
+   at Game.Logic.BaseGame.Update(Int64 tick) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\BaseGame.cs:line 697
+21:06:39,912 - [3] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Logic.PVPGame.RemovePlayer(IGamePlayer gp, Boolean IsKick) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\PVPGame.cs:line 584
+   at Fighting.Server.ServerClient.HandlePlayerExit(GSPacketIn pkg) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Fighting.Server\Servers\ServerClient.cs:line 115
+   at Fighting.Server.ServerClient.OnRecvPacket(GSPacketIn pkg) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Fighting.Server\Servers\ServerClient.cs:line 69
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\Packets\StreamProcessor.cs:line 387
+21:07:44,412 - [6] - ERROR - Game.Logic.BaseGame - Map update error:
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Game.Logic.BaseGame.GetPlayerPoint(MapPoint mapPos, Int32 team) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\BaseGame.cs:line 461
+   at Game.Logic.PVPGame.StartGame() in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\PVPGame.cs:line 135
+   at Game.Logic.Actions.CheckPVPGameStateAction.Execute(BaseGame game, Int64 tick) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Actions\CheckPVPGameStateAction.cs:line 38
+   at Game.Logic.BaseGame.Update(Int64 tick) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\BaseGame.cs:line 697
+21:09:04,630 - [3] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Logic.PVPGame.RemovePlayer(IGamePlayer gp, Boolean IsKick) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\PVPGame.cs:line 584
+   at Fighting.Server.ServerClient.HandlePlayerExit(GSPacketIn pkg) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Fighting.Server\Servers\ServerClient.cs:line 115
+   at Fighting.Server.ServerClient.OnRecvPacket(GSPacketIn pkg) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Fighting.Server\Servers\ServerClient.cs:line 69
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\Packets\StreamProcessor.cs:line 387
+21:09:19,333 - [6] - ERROR - Game.Logic.BaseGame - Map update error:
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Game.Logic.BaseGame.GetPlayerPoint(MapPoint mapPos, Int32 team) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\BaseGame.cs:line 461
+   at Game.Logic.PVPGame.StartGame() in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\PVPGame.cs:line 135
+   at Game.Logic.Actions.CheckPVPGameStateAction.Execute(BaseGame game, Int64 tick) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Actions\CheckPVPGameStateAction.cs:line 38
+   at Game.Logic.BaseGame.Update(Int64 tick) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\BaseGame.cs:line 697
+21:09:53,990 - [3] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Logic.PVPGame.RemovePlayer(IGamePlayer gp, Boolean IsKick) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\PVPGame.cs:line 584
+   at Fighting.Server.ServerClient.HandlePlayerExit(GSPacketIn pkg) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Fighting.Server\Servers\ServerClient.cs:line 115
+   at Fighting.Server.ServerClient.OnRecvPacket(GSPacketIn pkg) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Fighting.Server\Servers\ServerClient.cs:line 69
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\Packets\StreamProcessor.cs:line 387
+21:13:39,021 - [6] - ERROR - Game.Logic.BaseGame - Map update error:
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Game.Logic.BaseGame.GetPlayerPoint(MapPoint mapPos, Int32 team) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\BaseGame.cs:line 461
+   at Game.Logic.PVPGame.StartGame() in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\PVPGame.cs:line 135
+   at Game.Logic.Actions.CheckPVPGameStateAction.Execute(BaseGame game, Int64 tick) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Actions\CheckPVPGameStateAction.cs:line 38
+   at Game.Logic.BaseGame.Update(Int64 tick) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\BaseGame.cs:line 697
+21:14:37,630 - [3] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Logic.PVPGame.RemovePlayer(IGamePlayer gp, Boolean IsKick) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\PVPGame.cs:line 584
+   at Fighting.Server.ServerClient.HandlePlayerExit(GSPacketIn pkg) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Fighting.Server\Servers\ServerClient.cs:line 115
+   at Fighting.Server.ServerClient.OnRecvPacket(GSPacketIn pkg) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Fighting.Server\Servers\ServerClient.cs:line 69
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\Packets\StreamProcessor.cs:line 387
+21:18:04,771 - [6] - ERROR - Game.Logic.BaseGame - Map update error:
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Game.Logic.BaseGame.GetPlayerPoint(MapPoint mapPos, Int32 team) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\BaseGame.cs:line 461
+   at Game.Logic.PVPGame.StartGame() in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\PVPGame.cs:line 135
+   at Game.Logic.Actions.CheckPVPGameStateAction.Execute(BaseGame game, Int64 tick) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Actions\CheckPVPGameStateAction.cs:line 38
+   at Game.Logic.BaseGame.Update(Int64 tick) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\BaseGame.cs:line 697
+21:18:09,333 - [3] - ERROR - Fighting.Server.ServerClient - Room already exists:21
+21:18:45,318 - [6] - ERROR - Game.Logic.BaseGame - Map update error:
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Game.Logic.BaseGame.GetPlayerPoint(MapPoint mapPos, Int32 team) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\BaseGame.cs:line 461
+   at Game.Logic.PVPGame.StartGame() in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\PVPGame.cs:line 135
+   at Game.Logic.Actions.CheckPVPGameStateAction.Execute(BaseGame game, Int64 tick) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Actions\CheckPVPGameStateAction.cs:line 38
+   at Game.Logic.BaseGame.Update(Int64 tick) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\BaseGame.cs:line 697
+21:19:25,849 - [3] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Logic.PVPGame.RemovePlayer(IGamePlayer gp, Boolean IsKick) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\PVPGame.cs:line 584
+   at Fighting.Server.ServerClient.HandlePlayerExit(GSPacketIn pkg) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Fighting.Server\Servers\ServerClient.cs:line 115
+   at Fighting.Server.ServerClient.OnRecvPacket(GSPacketIn pkg) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Fighting.Server\Servers\ServerClient.cs:line 69
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\Packets\StreamProcessor.cs:line 387
+21:21:12,912 - [6] - ERROR - Game.Logic.BaseGame - Map update error:
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Game.Logic.BaseGame.GetPlayerPoint(MapPoint mapPos, Int32 team) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\BaseGame.cs:line 461
+   at Game.Logic.PVPGame.StartGame() in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\PVPGame.cs:line 135
+   at Game.Logic.Actions.CheckPVPGameStateAction.Execute(BaseGame game, Int64 tick) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Actions\CheckPVPGameStateAction.cs:line 38
+   at Game.Logic.BaseGame.Update(Int64 tick) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\BaseGame.cs:line 697
+21:21:28,990 - [3] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Logic.PVPGame.RemovePlayer(IGamePlayer gp, Boolean IsKick) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\PVPGame.cs:line 584
+   at Fighting.Server.ServerClient.HandlePlayerExit(GSPacketIn pkg) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Fighting.Server\Servers\ServerClient.cs:line 115
+   at Fighting.Server.ServerClient.OnRecvPacket(GSPacketIn pkg) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Fighting.Server\Servers\ServerClient.cs:line 69
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\Packets\StreamProcessor.cs:line 387
+21:23:53,802 - [6] - ERROR - Game.Logic.BaseGame - Map update error:
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Game.Logic.BaseGame.GetPlayerPoint(MapPoint mapPos, Int32 team) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\BaseGame.cs:line 461
+   at Game.Logic.PVPGame.StartGame() in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\PVPGame.cs:line 135
+   at Game.Logic.Actions.CheckPVPGameStateAction.Execute(BaseGame game, Int64 tick) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Actions\CheckPVPGameStateAction.cs:line 38
+   at Game.Logic.BaseGame.Update(Int64 tick) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\BaseGame.cs:line 697
+21:24:46,146 - [6] - ERROR - Game.Logic.BaseGame - Map update error:
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Game.Logic.BaseGame.GetPlayerPoint(MapPoint mapPos, Int32 team) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\BaseGame.cs:line 461
+   at Game.Logic.PVPGame.StartGame() in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\PVPGame.cs:line 135
+   at Game.Logic.Actions.CheckPVPGameStateAction.Execute(BaseGame game, Int64 tick) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Actions\CheckPVPGameStateAction.cs:line 38
+   at Game.Logic.BaseGame.Update(Int64 tick) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\BaseGame.cs:line 697
+21:24:57,880 - [3] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Logic.PVPGame.RemovePlayer(IGamePlayer gp, Boolean IsKick) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\PVPGame.cs:line 584
+   at Fighting.Server.ServerClient.HandlePlayerExit(GSPacketIn pkg) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Fighting.Server\Servers\ServerClient.cs:line 115
+   at Fighting.Server.ServerClient.OnRecvPacket(GSPacketIn pkg) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Fighting.Server\Servers\ServerClient.cs:line 69
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\Packets\StreamProcessor.cs:line 387
+21:25:34,708 - [3] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Logic.PVPGame.RemovePlayer(IGamePlayer gp, Boolean IsKick) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\PVPGame.cs:line 584
+   at Fighting.Server.ServerClient.HandlePlayerExit(GSPacketIn pkg) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Fighting.Server\Servers\ServerClient.cs:line 115
+   at Fighting.Server.ServerClient.OnRecvPacket(GSPacketIn pkg) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Fighting.Server\Servers\ServerClient.cs:line 69
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\Packets\StreamProcessor.cs:line 387
+21:26:02,927 - [6] - ERROR - Game.Logic.BaseGame - Map update error:
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Game.Logic.BaseGame.GetPlayerPoint(MapPoint mapPos, Int32 team) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\BaseGame.cs:line 461
+   at Game.Logic.PVPGame.StartGame() in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\PVPGame.cs:line 135
+   at Game.Logic.Actions.CheckPVPGameStateAction.Execute(BaseGame game, Int64 tick) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Actions\CheckPVPGameStateAction.cs:line 38
+   at Game.Logic.BaseGame.Update(Int64 tick) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\BaseGame.cs:line 697
+21:26:15,474 - [6] - ERROR - Game.Logic.BaseGame - Map update error:
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Game.Logic.BaseGame.GetPlayerPoint(MapPoint mapPos, Int32 team) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\BaseGame.cs:line 461
+   at Game.Logic.PVPGame.StartGame() in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\PVPGame.cs:line 135
+   at Game.Logic.Actions.CheckPVPGameStateAction.Execute(BaseGame game, Int64 tick) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Actions\CheckPVPGameStateAction.cs:line 38
+   at Game.Logic.BaseGame.Update(Int64 tick) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\BaseGame.cs:line 697
+21:26:34,615 - [3] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Logic.PVPGame.RemovePlayer(IGamePlayer gp, Boolean IsKick) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\PVPGame.cs:line 584
+   at Fighting.Server.ServerClient.HandlePlayerExit(GSPacketIn pkg) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Fighting.Server\Servers\ServerClient.cs:line 115
+   at Fighting.Server.ServerClient.OnRecvPacket(GSPacketIn pkg) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Fighting.Server\Servers\ServerClient.cs:line 69
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\Packets\StreamProcessor.cs:line 387
+21:26:47,630 - [6] - ERROR - Game.Logic.BaseGame - Map update error:
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Game.Logic.BaseGame.GetPlayerPoint(MapPoint mapPos, Int32 team) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\BaseGame.cs:line 461
+   at Game.Logic.PVPGame.StartGame() in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\PVPGame.cs:line 135
+   at Game.Logic.Actions.CheckPVPGameStateAction.Execute(BaseGame game, Int64 tick) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Actions\CheckPVPGameStateAction.cs:line 38
+   at Game.Logic.BaseGame.Update(Int64 tick) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\BaseGame.cs:line 697
+21:27:03,818 - [3] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Logic.PVPGame.RemovePlayer(IGamePlayer gp, Boolean IsKick) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\PVPGame.cs:line 584
+   at Fighting.Server.ServerClient.HandlePlayerExit(GSPacketIn pkg) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Fighting.Server\Servers\ServerClient.cs:line 115
+   at Fighting.Server.ServerClient.OnRecvPacket(GSPacketIn pkg) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Fighting.Server\Servers\ServerClient.cs:line 69
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\Packets\StreamProcessor.cs:line 387
+21:27:07,443 - [3] - ERROR - Fighting.Server.ServerClient - Room already exists:9
+21:27:27,943 - [3] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Logic.PVPGame.RemovePlayer(IGamePlayer gp, Boolean IsKick) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\PVPGame.cs:line 584
+   at Fighting.Server.ServerClient.HandlePlayerExit(GSPacketIn pkg) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Fighting.Server\Servers\ServerClient.cs:line 115
+   at Fighting.Server.ServerClient.OnRecvPacket(GSPacketIn pkg) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Fighting.Server\Servers\ServerClient.cs:line 69
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\Packets\StreamProcessor.cs:line 387
+21:27:42,396 - [6] - ERROR - Game.Logic.BaseGame - Map update error:
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Game.Logic.BaseGame.GetPlayerPoint(MapPoint mapPos, Int32 team) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\BaseGame.cs:line 461
+   at Game.Logic.PVPGame.StartGame() in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\PVPGame.cs:line 135
+   at Game.Logic.Actions.CheckPVPGameStateAction.Execute(BaseGame game, Int64 tick) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Actions\CheckPVPGameStateAction.cs:line 38
+   at Game.Logic.BaseGame.Update(Int64 tick) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\BaseGame.cs:line 697
+21:29:00,724 - [3] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Logic.PVPGame.RemovePlayer(IGamePlayer gp, Boolean IsKick) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\PVPGame.cs:line 584
+   at Fighting.Server.ServerClient.HandlePlayerExit(GSPacketIn pkg) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Fighting.Server\Servers\ServerClient.cs:line 115
+   at Fighting.Server.ServerClient.OnRecvPacket(GSPacketIn pkg) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Fighting.Server\Servers\ServerClient.cs:line 69
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\Packets\StreamProcessor.cs:line 387
+21:29:02,802 - [6] - ERROR - Game.Logic.BaseGame - Map update error:
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Game.Logic.BaseGame.GetPlayerPoint(MapPoint mapPos, Int32 team) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\BaseGame.cs:line 461
+   at Game.Logic.PVPGame.StartGame() in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\PVPGame.cs:line 135
+   at Game.Logic.Actions.CheckPVPGameStateAction.Execute(BaseGame game, Int64 tick) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Actions\CheckPVPGameStateAction.cs:line 38
+   at Game.Logic.BaseGame.Update(Int64 tick) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\BaseGame.cs:line 697
+21:29:29,052 - [6] - ERROR - Game.Logic.BaseGame - Map update error:
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Game.Logic.BaseGame.GetPlayerPoint(MapPoint mapPos, Int32 team) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\BaseGame.cs:line 461
+   at Game.Logic.PVPGame.StartGame() in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\PVPGame.cs:line 135
+   at Game.Logic.Actions.CheckPVPGameStateAction.Execute(BaseGame game, Int64 tick) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Actions\CheckPVPGameStateAction.cs:line 38
+   at Game.Logic.BaseGame.Update(Int64 tick) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\BaseGame.cs:line 697
+21:29:57,818 - [3] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Logic.PVPGame.RemovePlayer(IGamePlayer gp, Boolean IsKick) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\PVPGame.cs:line 584
+   at Fighting.Server.ServerClient.HandlePlayerExit(GSPacketIn pkg) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Fighting.Server\Servers\ServerClient.cs:line 115
+   at Fighting.Server.ServerClient.OnRecvPacket(GSPacketIn pkg) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Fighting.Server\Servers\ServerClient.cs:line 69
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\Packets\StreamProcessor.cs:line 387
+21:30:06,833 - [3] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Logic.PVPGame.RemovePlayer(IGamePlayer gp, Boolean IsKick) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\PVPGame.cs:line 584
+   at Fighting.Server.ServerClient.HandlePlayerExit(GSPacketIn pkg) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Fighting.Server\Servers\ServerClient.cs:line 115
+   at Fighting.Server.ServerClient.OnRecvPacket(GSPacketIn pkg) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Fighting.Server\Servers\ServerClient.cs:line 69
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\Packets\StreamProcessor.cs:line 387
+21:30:16,755 - [6] - ERROR - Game.Logic.BaseGame - Map update error:
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Game.Logic.BaseGame.GetPlayerPoint(MapPoint mapPos, Int32 team) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\BaseGame.cs:line 461
+   at Game.Logic.PVPGame.StartGame() in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\PVPGame.cs:line 135
+   at Game.Logic.Actions.CheckPVPGameStateAction.Execute(BaseGame game, Int64 tick) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Actions\CheckPVPGameStateAction.cs:line 38
+   at Game.Logic.BaseGame.Update(Int64 tick) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\BaseGame.cs:line 697
+21:31:49,708 - [6] - ERROR - Game.Logic.BaseGame - Map update error:
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Game.Logic.BaseGame.GetPlayerPoint(MapPoint mapPos, Int32 team) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\BaseGame.cs:line 461
+   at Game.Logic.PVPGame.StartGame() in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\PVPGame.cs:line 135
+   at Game.Logic.Actions.CheckPVPGameStateAction.Execute(BaseGame game, Int64 tick) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Actions\CheckPVPGameStateAction.cs:line 38
+   at Game.Logic.BaseGame.Update(Int64 tick) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\BaseGame.cs:line 697
+21:32:19,755 - [3] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Logic.PVPGame.RemovePlayer(IGamePlayer gp, Boolean IsKick) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\PVPGame.cs:line 584
+   at Fighting.Server.ServerClient.HandlePlayerExit(GSPacketIn pkg) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Fighting.Server\Servers\ServerClient.cs:line 115
+   at Fighting.Server.ServerClient.OnRecvPacket(GSPacketIn pkg) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Fighting.Server\Servers\ServerClient.cs:line 69
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\Packets\StreamProcessor.cs:line 387
+21:34:20,927 - [6] - ERROR - Game.Logic.BaseGame - Map update error:
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Game.Logic.BaseGame.GetPlayerPoint(MapPoint mapPos, Int32 team) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\BaseGame.cs:line 461
+   at Game.Logic.PVPGame.StartGame() in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\PVPGame.cs:line 135
+   at Game.Logic.Actions.CheckPVPGameStateAction.Execute(BaseGame game, Int64 tick) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Actions\CheckPVPGameStateAction.cs:line 38
+   at Game.Logic.BaseGame.Update(Int64 tick) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\BaseGame.cs:line 697
+21:34:41,630 - [3] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Logic.PVPGame.RemovePlayer(IGamePlayer gp, Boolean IsKick) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\PVPGame.cs:line 584
+   at Fighting.Server.ServerClient.HandlePlayerExit(GSPacketIn pkg) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Fighting.Server\Servers\ServerClient.cs:line 115
+   at Fighting.Server.ServerClient.OnRecvPacket(GSPacketIn pkg) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Fighting.Server\Servers\ServerClient.cs:line 69
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\Packets\StreamProcessor.cs:line 387
+21:35:11,396 - [3] - ERROR - Fighting.Server.ServerClient - Room already exists:9
+21:36:50,505 - [6] - ERROR - Game.Logic.BaseGame - Map update error:
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Game.Logic.BaseGame.GetPlayerPoint(MapPoint mapPos, Int32 team) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\BaseGame.cs:line 461
+   at Game.Logic.PVPGame.StartGame() in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\PVPGame.cs:line 135
+   at Game.Logic.Actions.CheckPVPGameStateAction.Execute(BaseGame game, Int64 tick) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Actions\CheckPVPGameStateAction.cs:line 38
+   at Game.Logic.BaseGame.Update(Int64 tick) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\BaseGame.cs:line 697
+21:37:00,708 - [6] - ERROR - Game.Logic.BaseGame - Map update error:
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at Game.Logic.BaseGame.GetPlayerPoint(MapPoint mapPos, Int32 team) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\BaseGame.cs:line 461
+   at Game.Logic.PVPGame.StartGame() in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\PVPGame.cs:line 135
+   at Game.Logic.Actions.CheckPVPGameStateAction.Execute(BaseGame game, Int64 tick) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Actions\CheckPVPGameStateAction.cs:line 38
+   at Game.Logic.BaseGame.Update(Int64 tick) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\BaseGame.cs:line 697

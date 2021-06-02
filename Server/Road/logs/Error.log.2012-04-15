@@ -1,0 +1,451 @@
+09:33:44,883 - [4] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+   at Game.Server.GameClient.OnRecvPacket(GSPacketIn pkg)
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\Packets\StreamProcessor.cs:line 387
+09:34:05,742 - [4] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+   at Game.Server.GameClient.OnRecvPacket(GSPacketIn pkg)
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\Packets\StreamProcessor.cs:line 387
+09:34:07,852 - [4] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+   at Game.Server.GameClient.OnRecvPacket(GSPacketIn pkg)
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\Packets\StreamProcessor.cs:line 387
+09:34:08,492 - [4] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+   at Game.Server.GameClient.OnRecvPacket(GSPacketIn pkg)
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\Packets\StreamProcessor.cs:line 387
+09:34:14,477 - [4] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+   at Game.Server.GameClient.OnRecvPacket(GSPacketIn pkg)
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\Packets\StreamProcessor.cs:line 387
+09:34:15,086 - [4] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+   at Game.Server.GameClient.OnRecvPacket(GSPacketIn pkg)
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\Packets\StreamProcessor.cs:line 387
+09:34:23,914 - [4] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+   at Game.Server.GameClient.OnRecvPacket(GSPacketIn pkg)
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\Packets\StreamProcessor.cs:line 387
+09:34:33,836 - [11] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+   at Game.Server.GameClient.OnRecvPacket(GSPacketIn pkg)
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\Packets\StreamProcessor.cs:line 387
+09:34:36,383 - [11] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+   at Game.Server.GameClient.OnRecvPacket(GSPacketIn pkg)
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\Packets\StreamProcessor.cs:line 387
+09:34:38,461 - [11] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+   at Game.Server.GameClient.OnRecvPacket(GSPacketIn pkg)
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\Packets\StreamProcessor.cs:line 387
+09:34:38,633 - [11] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+   at Game.Server.GameClient.OnRecvPacket(GSPacketIn pkg)
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\Packets\StreamProcessor.cs:line 387
+09:34:44,789 - [4] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+   at Game.Server.GameClient.OnRecvPacket(GSPacketIn pkg)
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\Packets\StreamProcessor.cs:line 387
+09:35:01,070 - [4] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+   at Game.Server.GameClient.OnRecvPacket(GSPacketIn pkg)
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\Packets\StreamProcessor.cs:line 387
+09:35:05,039 - [11] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+   at Game.Server.GameClient.OnRecvPacket(GSPacketIn pkg)
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\Packets\StreamProcessor.cs:line 387
+09:35:22,039 - [11] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+   at Game.Server.GameClient.OnRecvPacket(GSPacketIn pkg)
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\Packets\StreamProcessor.cs:line 387
+09:35:22,680 - [4] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+   at Game.Server.GameClient.OnRecvPacket(GSPacketIn pkg)
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\Packets\StreamProcessor.cs:line 387
+09:35:27,461 - [4] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+   at Game.Server.GameClient.OnRecvPacket(GSPacketIn pkg)
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\Packets\StreamProcessor.cs:line 387
+09:35:27,586 - [4] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+   at Game.Server.GameClient.OnRecvPacket(GSPacketIn pkg)
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\Packets\StreamProcessor.cs:line 387
+09:35:34,430 - [11] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+   at Game.Server.GameClient.OnRecvPacket(GSPacketIn pkg)
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\Packets\StreamProcessor.cs:line 387
+09:35:39,836 - [11] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+   at Game.Server.GameClient.OnRecvPacket(GSPacketIn pkg)
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\Packets\StreamProcessor.cs:line 387
+09:35:45,336 - [11] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+   at Game.Server.GameClient.OnRecvPacket(GSPacketIn pkg)
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\Packets\StreamProcessor.cs:line 387
+09:35:55,664 - [4] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+   at Game.Server.GameClient.OnRecvPacket(GSPacketIn pkg)
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\Packets\StreamProcessor.cs:line 387
+09:35:56,930 - [4] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+   at Game.Server.GameClient.OnRecvPacket(GSPacketIn pkg)
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\Packets\StreamProcessor.cs:line 387
+09:35:59,086 - [11] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+   at Game.Server.GameClient.OnRecvPacket(GSPacketIn pkg)
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\Packets\StreamProcessor.cs:line 387
+09:35:59,977 - [4] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+   at Game.Server.GameClient.OnRecvPacket(GSPacketIn pkg)
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\Packets\StreamProcessor.cs:line 387
+09:36:01,383 - [4] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+   at Game.Server.GameClient.OnRecvPacket(GSPacketIn pkg)
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\Packets\StreamProcessor.cs:line 387
+09:36:01,758 - [11] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+   at Game.Server.GameClient.OnRecvPacket(GSPacketIn pkg)
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\Packets\StreamProcessor.cs:line 387
+09:36:03,539 - [4] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+   at Game.Server.GameClient.OnRecvPacket(GSPacketIn pkg)
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\Packets\StreamProcessor.cs:line 387
+09:36:04,508 - [11] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+   at Game.Server.GameClient.OnRecvPacket(GSPacketIn pkg)
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\Packets\StreamProcessor.cs:line 387
+09:36:05,602 - [4] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+   at Game.Server.GameClient.OnRecvPacket(GSPacketIn pkg)
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\Packets\StreamProcessor.cs:line 387
+09:36:12,398 - [11] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+   at Game.Server.GameClient.OnRecvPacket(GSPacketIn pkg)
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\Packets\StreamProcessor.cs:line 387
+09:36:19,227 - [11] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+   at Game.Server.GameClient.OnRecvPacket(GSPacketIn pkg)
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\Packets\StreamProcessor.cs:line 387
+09:36:20,367 - [11] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+   at Game.Server.GameClient.OnRecvPacket(GSPacketIn pkg)
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\Packets\StreamProcessor.cs:line 387
+09:36:22,227 - [4] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+   at Game.Server.GameClient.OnRecvPacket(GSPacketIn pkg)
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\Packets\StreamProcessor.cs:line 387
+09:36:22,305 - [11] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+   at Game.Server.GameClient.OnRecvPacket(GSPacketIn pkg)
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\Packets\StreamProcessor.cs:line 387
+09:36:22,648 - [4] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+   at Game.Server.GameClient.OnRecvPacket(GSPacketIn pkg)
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\Packets\StreamProcessor.cs:line 387
+09:36:23,961 - [11] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+   at Game.Server.GameClient.OnRecvPacket(GSPacketIn pkg)
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\Packets\StreamProcessor.cs:line 387
+09:36:24,148 - [4] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+   at Game.Server.GameClient.OnRecvPacket(GSPacketIn pkg)
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\Packets\StreamProcessor.cs:line 387
+09:36:26,133 - [11] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+   at Game.Server.GameClient.OnRecvPacket(GSPacketIn pkg)
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\Packets\StreamProcessor.cs:line 387
+09:36:30,383 - [4] - ERROR - Game.Server.HotSpringRooms.TankHotSpringLogicProcessor - IP:123.16.22.51:2078, OnGameData is Error: System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.ThrowHelper.ThrowKeyNotFoundException()
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at Game.Server.HotSpringRooms.TankHandle.HotSpringCommandMgr.LoadCommandHandler(Int32 code)
+   at Game.Server.HotSpringRooms.TankHotSpringLogicProcessor.OnGameData(HotSpringRoom room, GamePlayer player, GSPacketIn packet)
+09:36:31,555 - [4] - ERROR - Game.Server.HotSpringRooms.TankHotSpringLogicProcessor - IP:123.16.22.51:2078, OnGameData is Error: System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.ThrowHelper.ThrowKeyNotFoundException()
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at Game.Server.HotSpringRooms.TankHandle.HotSpringCommandMgr.LoadCommandHandler(Int32 code)
+   at Game.Server.HotSpringRooms.TankHotSpringLogicProcessor.OnGameData(HotSpringRoom room, GamePlayer player, GSPacketIn packet)
+09:36:31,820 - [11] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+   at Game.Server.GameClient.OnRecvPacket(GSPacketIn pkg)
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\Packets\StreamProcessor.cs:line 387
+09:36:33,586 - [11] - ERROR - Game.Server.HotSpringRooms.TankHotSpringLogicProcessor - IP:123.16.22.51:2078, OnGameData is Error: System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.ThrowHelper.ThrowKeyNotFoundException()
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at Game.Server.HotSpringRooms.TankHandle.HotSpringCommandMgr.LoadCommandHandler(Int32 code)
+   at Game.Server.HotSpringRooms.TankHotSpringLogicProcessor.OnGameData(HotSpringRoom room, GamePlayer player, GSPacketIn packet)
+09:36:33,789 - [11] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+   at Game.Server.GameClient.OnRecvPacket(GSPacketIn pkg)
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\Packets\StreamProcessor.cs:line 387
+09:36:34,195 - [11] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+   at Game.Server.GameClient.OnRecvPacket(GSPacketIn pkg)
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\Packets\StreamProcessor.cs:line 387
+09:36:34,570 - [4] - ERROR - Game.Server.HotSpringRooms.TankHotSpringLogicProcessor - IP:123.16.22.51:2078, OnGameData is Error: System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.ThrowHelper.ThrowKeyNotFoundException()
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at Game.Server.HotSpringRooms.TankHandle.HotSpringCommandMgr.LoadCommandHandler(Int32 code)
+   at Game.Server.HotSpringRooms.TankHotSpringLogicProcessor.OnGameData(HotSpringRoom room, GamePlayer player, GSPacketIn packet)
+09:36:36,289 - [11] - ERROR - Game.Server.HotSpringRooms.TankHotSpringLogicProcessor - IP:123.16.22.51:2078, OnGameData is Error: System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.ThrowHelper.ThrowKeyNotFoundException()
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at Game.Server.HotSpringRooms.TankHandle.HotSpringCommandMgr.LoadCommandHandler(Int32 code)
+   at Game.Server.HotSpringRooms.TankHotSpringLogicProcessor.OnGameData(HotSpringRoom room, GamePlayer player, GSPacketIn packet)
+09:36:37,430 - [11] - ERROR - Game.Server.HotSpringRooms.TankHotSpringLogicProcessor - IP:123.16.22.51:2078, OnGameData is Error: System.ArgumentOutOfRangeException: Non-negative number required.
+Parameter name: count
+   at System.Text.UTF8Encoding.GetString(Byte[] bytes, Int32 index, Int32 count)
+   at Game.Base.PacketIn.ReadString() in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\PacketIn.cs:line 150
+   at Game.Server.HotSpringRooms.TankHandle.MoveCommand.HandleCommand(TankHotSpringLogicProcessor process, GamePlayer player, GSPacketIn packet)
+   at Game.Server.HotSpringRooms.TankHotSpringLogicProcessor.OnGameData(HotSpringRoom room, GamePlayer player, GSPacketIn packet)
+09:36:38,992 - [11] - ERROR - Game.Server.HotSpringRooms.TankHotSpringLogicProcessor - IP:123.16.22.51:2078, OnGameData is Error: System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.ThrowHelper.ThrowKeyNotFoundException()
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at Game.Server.HotSpringRooms.TankHandle.HotSpringCommandMgr.LoadCommandHandler(Int32 code)
+   at Game.Server.HotSpringRooms.TankHotSpringLogicProcessor.OnGameData(HotSpringRoom room, GamePlayer player, GSPacketIn packet)
+09:36:41,586 - [11] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+   at Game.Server.GameClient.OnRecvPacket(GSPacketIn pkg)
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\Packets\StreamProcessor.cs:line 387
+09:36:42,258 - [11] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+   at Game.Server.GameClient.OnRecvPacket(GSPacketIn pkg)
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\Packets\StreamProcessor.cs:line 387
+09:36:42,320 - [11] - ERROR - Game.Server.HotSpringRooms.TankHotSpringLogicProcessor - IP:123.16.22.51:2078, OnGameData is Error: System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.ThrowHelper.ThrowKeyNotFoundException()
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at Game.Server.HotSpringRooms.TankHandle.HotSpringCommandMgr.LoadCommandHandler(Int32 code)
+   at Game.Server.HotSpringRooms.TankHotSpringLogicProcessor.OnGameData(HotSpringRoom room, GamePlayer player, GSPacketIn packet)
+09:36:44,570 - [11] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+   at Game.Server.GameClient.OnRecvPacket(GSPacketIn pkg)
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\Packets\StreamProcessor.cs:line 387
+09:36:44,648 - [4] - ERROR - Game.Server.HotSpringRooms.TankHotSpringLogicProcessor - IP:123.16.22.51:2078, OnGameData is Error: System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.ThrowHelper.ThrowKeyNotFoundException()
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at Game.Server.HotSpringRooms.TankHandle.HotSpringCommandMgr.LoadCommandHandler(Int32 code)
+   at Game.Server.HotSpringRooms.TankHotSpringLogicProcessor.OnGameData(HotSpringRoom room, GamePlayer player, GSPacketIn packet)
+09:36:47,477 - [11] - ERROR - Game.Server.HotSpringRooms.TankHotSpringLogicProcessor - IP:123.16.22.51:2078, OnGameData is Error: System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.ThrowHelper.ThrowKeyNotFoundException()
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at Game.Server.HotSpringRooms.TankHandle.HotSpringCommandMgr.LoadCommandHandler(Int32 code)
+   at Game.Server.HotSpringRooms.TankHotSpringLogicProcessor.OnGameData(HotSpringRoom room, GamePlayer player, GSPacketIn packet)
+09:36:48,102 - [11] - ERROR - Game.Server.HotSpringRooms.TankHotSpringLogicProcessor - IP:123.16.22.51:2078, OnGameData is Error: System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.ThrowHelper.ThrowKeyNotFoundException()
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at Game.Server.HotSpringRooms.TankHandle.HotSpringCommandMgr.LoadCommandHandler(Int32 code)
+   at Game.Server.HotSpringRooms.TankHotSpringLogicProcessor.OnGameData(HotSpringRoom room, GamePlayer player, GSPacketIn packet)
+09:36:48,680 - [4] - ERROR - Game.Server.HotSpringRooms.TankHotSpringLogicProcessor - IP:123.16.22.51:2078, OnGameData is Error: System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.ThrowHelper.ThrowKeyNotFoundException()
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at Game.Server.HotSpringRooms.TankHandle.HotSpringCommandMgr.LoadCommandHandler(Int32 code)
+   at Game.Server.HotSpringRooms.TankHotSpringLogicProcessor.OnGameData(HotSpringRoom room, GamePlayer player, GSPacketIn packet)
+09:36:52,664 - [4] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+   at Game.Server.GameClient.OnRecvPacket(GSPacketIn pkg)
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\Packets\StreamProcessor.cs:line 387
+09:36:54,336 - [4] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+   at Game.Server.GameClient.OnRecvPacket(GSPacketIn pkg)
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\Packets\StreamProcessor.cs:line 387
+09:36:58,023 - [12] - ERROR - Game.Server.GameObjects.GamePlayer - Error saving player thuyen1788!
+System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at System.Collections.Generic.List`1.Enumerator.MoveNext()
+   at Game.Server.Quests.QuestInventory.SaveToDatabase()
+   at Game.Server.GameObjects.GamePlayer.SaveIntoDatabase()
+09:36:58,367 - [12] - ERROR - Game.Server.GameObjects.GamePlayer - Error saving player longhai123!
+System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at System.Collections.Generic.List`1.Enumerator.MoveNext()
+   at Game.Server.Quests.QuestInventory.SaveToDatabase()
+   at Game.Server.GameObjects.GamePlayer.SaveIntoDatabase()
+09:36:59,164 - [11] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.QuestAddHandler  client: not connected)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Server.Packets.Client.QuestAddHandler.HandlePacket(GameClient client, GSPacketIn packet)
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+09:36:59,180 - [11] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 1C 01 4C 00 B0 00 00 00 00 00 00 00 00   q....L..........
+0010: 00 00 00 00 00 00 00 01 00 00 02 22               ..........."    
+
+09:36:59,180 - [11] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.QuestAddHandler  client: not connected)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Server.Packets.Client.QuestAddHandler.HandlePacket(GameClient client, GSPacketIn packet)
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+09:36:59,180 - [11] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 1C 01 12 00 B0 00 00 00 00 00 00 00 00   q...............
+0010: 00 00 00 00 00 00 00 01 00 00 02 68               ...........h    
+
+09:36:59,211 - [11] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.UserAnswerHandler  client: not connected)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Server.Packets.Client.UserAnswerHandler.HandlePacket(GameClient client, GSPacketIn packet)
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+09:36:59,211 - [11] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 19 00 18 00 0F 00 00 00 00 00 00 00 00   q...............
+0010: 00 00 00 00 02 00 00 00 10                        .........       
+
+09:36:59,211 - [11] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.UserAnswerHandler  client: not connected)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Server.Packets.Client.UserAnswerHandler.HandlePacket(GameClient client, GSPacketIn packet)
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+09:36:59,227 - [11] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 19 00 28 00 0F 00 00 00 00 00 00 00 00   q....(..........
+0010: 00 00 00 00 02 00 00 00 20                        ........        
+
+09:36:59,883 - [11] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+   at Game.Server.GameClient.OnRecvPacket(GSPacketIn pkg)
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Base\Packets\StreamProcessor.cs:line 387
+09:36:59,898 - [13] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.QuestAddHandler  client: not connected)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Server.Packets.Client.QuestAddHandler.HandlePacket(GameClient client, GSPacketIn packet)
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+09:36:59,914 - [13] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 1C 01 3E 00 B0 00 00 00 00 00 00 00 00   q....>..........
+0010: 00 00 00 00 00 00 00 01 00 00 02 14               ............    
+
+09:36:59,914 - [13] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.QuestAddHandler  client: not connected)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Server.Packets.Client.QuestAddHandler.HandlePacket(GameClient client, GSPacketIn packet)
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+09:36:59,930 - [13] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 1C 01 4C 00 B0 00 00 00 00 00 00 00 00   q....L..........
+0010: 00 00 00 00 00 00 00 01 00 00 02 22               ..........."    
+
+09:36:59,930 - [13] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.QuestAddHandler  client: not connected)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Server.Packets.Client.QuestAddHandler.HandlePacket(GameClient client, GSPacketIn packet)
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+09:36:59,945 - [13] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 1C 01 12 00 B0 00 00 00 00 00 00 00 00   q...............
+0010: 00 00 00 00 00 00 00 01 00 00 02 68               ...........h    
+
+09:36:59,992 - [13] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.UserAnswerHandler  client: not connected)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Server.Packets.Client.UserAnswerHandler.HandlePacket(GameClient client, GSPacketIn packet)
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+09:37:00,023 - [13] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 19 00 18 00 0F 00 00 00 00 00 00 00 00   q...............
+0010: 00 00 00 00 02 00 00 00 10                        .........       
+
+09:37:00,039 - [13] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.UserAnswerHandler  client: not connected)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Server.Packets.Client.UserAnswerHandler.HandlePacket(GameClient client, GSPacketIn packet)
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+09:37:00,055 - [13] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 19 00 28 00 0F 00 00 00 00 00 00 00 00   q....(..........
+0010: 00 00 00 00 02 00 00 00 20                        ........        
+
+09:37:00,055 - [13] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.QuestAddHandler  client: not connected)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Server.Packets.Client.QuestAddHandler.HandlePacket(GameClient client, GSPacketIn packet)
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+09:37:00,070 - [13] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 1C 01 7F 00 B0 00 00 00 00 00 00 00 00   q..............
+0010: 00 00 00 00 00 00 00 01 00 00 01 56               ...........V    
+
+09:37:00,086 - [13] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.QuestAddHandler  client: not connected)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Server.Packets.Client.QuestAddHandler.HandlePacket(GameClient client, GSPacketIn packet)
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+09:37:00,086 - [13] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 1C 01 3E 00 B0 00 00 00 00 00 00 00 00   q....>..........
+0010: 00 00 00 00 00 00 00 01 00 00 02 14               ............    
+
+09:37:00,102 - [13] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.QuestAddHandler  client: not connected)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Server.Packets.Client.QuestAddHandler.HandlePacket(GameClient client, GSPacketIn packet)
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+09:37:00,102 - [13] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 1C 01 4C 00 B0 00 00 00 00 00 00 00 00   q....L..........
+0010: 00 00 00 00 00 00 00 01 00 00 02 22               ..........."    
+
+09:37:00,117 - [13] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.QuestAddHandler  client: not connected)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Server.Packets.Client.QuestAddHandler.HandlePacket(GameClient client, GSPacketIn packet)
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+09:37:00,117 - [13] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 1C 01 12 00 B0 00 00 00 00 00 00 00 00   q...............
+0010: 00 00 00 00 00 00 00 01 00 00 02 68               ...........h    
+
+09:37:00,133 - [13] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.QuestAddHandler  client: not connected)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Server.Packets.Client.QuestAddHandler.HandlePacket(GameClient client, GSPacketIn packet)
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+09:37:00,133 - [13] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 1C 01 7F 00 B0 00 00 00 00 00 00 00 00   q..............
+0010: 00 00 00 00 00 00 00 01 00 00 01 56               ...........V    
+
+09:37:00,148 - [13] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.QuestAddHandler  client: not connected)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Server.Packets.Client.QuestAddHandler.HandlePacket(GameClient client, GSPacketIn packet)
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+09:37:00,148 - [13] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 1C 01 3E 00 B0 00 00 00 00 00 00 00 00   q....>..........
+0010: 00 00 00 00 00 00 00 01 00 00 02 14               ............    
+
+09:37:00,148 - [13] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.QuestAddHandler  client: not connected)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Server.Packets.Client.QuestAddHandler.HandlePacket(GameClient client, GSPacketIn packet)
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+09:37:00,164 - [13] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 1C 01 4C 00 B0 00 00 00 00 00 00 00 00   q....L..........
+0010: 00 00 00 00 00 00 00 01 00 00 02 22               ..........."    
+
+09:37:00,180 - [13] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.QuestAddHandler  client: not connected)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Server.Packets.Client.QuestAddHandler.HandlePacket(GameClient client, GSPacketIn packet)
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+09:37:00,180 - [13] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 1C 01 12 00 B0 00 00 00 00 00 00 00 00   q...............
+0010: 00 00 00 00 00 00 00 01 00 00 02 68               ...........h    
+

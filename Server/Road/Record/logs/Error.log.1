@@ -1,0 +1,27 @@
+20:04:02,562 - [12] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in E:\lamviec2\Game.Server\Packets\PacketProcessor.cs:line 37
+   at Game.Server.GameClient.OnRecvPacket(GSPacketIn pkg) in E:\lamviec2\Game.Server\GameClient.cs:line 113
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in C:\Documents and Settings\Administrator.KUPIN-PC\My Documents\Reflector\Disassembler\Game.Base\Packets\StreamProcessor.cs:line 387
+20:05:50,921 - [16] - ERROR - Game.Base.Packets.StreamProcessor - HandlePacket(pak)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in E:\lamviec2\Game.Server\Packets\PacketProcessor.cs:line 37
+   at Game.Server.GameClient.OnRecvPacket(GSPacketIn pkg) in E:\lamviec2\Game.Server\GameClient.cs:line 113
+   at Game.Base.Packets.StreamProcessor.ReceiveBytes(Int32 numBytes) in C:\Documents and Settings\Administrator.KUPIN-PC\My Documents\Reflector\Disassembler\Game.Base\Packets\StreamProcessor.cs:line 387
+20:16:51,468 - [16] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.HotSpringCmdDataHandler  client: 10.0.10.7:2299)
+System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at System.Collections.Generic.Dictionary`2.Add(TKey key, TValue value)
+   at Game.Server.HotSpringRooms.TankHandle.HotSpringCommandMgr.RegisterCommandHandler(Int32 code, IHotSpringCommandHandler handle)
+   at Game.Server.HotSpringRooms.TankHandle.HotSpringCommandMgr.SearchCommandHandlers(Assembly assembly)
+   at Game.Server.HotSpringRooms.TankHandle.HotSpringCommandMgr..ctor()
+   at Game.Server.HotSpringRooms.TankHotSpringLogicProcessor..ctor()
+   at Game.Server.Packets.Client.HotSpringCmdDataHandler.HandlePacket(GameClient client, GSPacketIn packet)
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet)
+20:16:51,562 - [16] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 3A 06 05 00 BF 00 00 00 4D 00 00 00 00   q..:.......M....
+0010: 00 00 00 00 01 00 0F 35 31 37 2C 34 31 33 2C 35   .......517,413,5
+0020: 32 34 2C 34 34 39 00 00 00 4D 00 00 01 95 00 00   24,449...M......
+0030: 01 95 00 00 00 01 00 00 00 03                     ..........      
+

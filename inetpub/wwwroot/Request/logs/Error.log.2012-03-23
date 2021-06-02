@@ -1,0 +1,3 @@
+2012-03-23 19:34:49,351 - [77] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Bussiness.PlayerBussiness.GetUserLoginList(String userName) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Bussiness\PlayerBussiness.cs:line 332
