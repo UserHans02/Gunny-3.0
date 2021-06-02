@@ -48,3 +48,19 @@ inetpub/wwwroot/Request/logs/Error.log
 inetpub/temp/IIS Temporary Compressed Files/DefaultAppPool/$^_gzip_C^/INETPUB/WWWROOT/LIB/STYLE.CSS
 inetpub/temp/IIS Temporary Compressed Files/DefaultAppPool/$^_gzip_C^/INETPUB/WWWROOT/INDEX.HTML
 inetpub/logs/LogFiles/W3SVC1/u_ex210602.log
+*.log
+Server/Road/logs/GameServer.log
+Server/Road/logs/Error.log.5
+Server/Road/logs/Error.log.4
+Server/Road/logs/Error.log.3
+Server/Road/logs/Error.log.2
+Server/Road/logs/Error.log.1
+Server/Road/logs/Error.log
+Server/Road/GameServerScripts.pdb
+Server/Road/GameServerScripts.dll
+inetpub/wwwroot/Request/logs/Error.log.2
+inetpub/wwwroot/Request/logs/Error.log.1
+inetpub/wwwroot/Request/logs/Error.log
+inetpub/temp/IIS Temporary Compressed Files/DefaultAppPool/$^_gzip_C^/INETPUB/WWWROOT/LIB/STYLE.CSS
+inetpub/temp/IIS Temporary Compressed Files/DefaultAppPool/$^_gzip_C^/INETPUB/WWWROOT/INDEX.HTML
+inetpub/logs/LogFiles/W3SVC1/u_ex210602.log
