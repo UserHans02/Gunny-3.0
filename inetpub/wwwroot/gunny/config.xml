@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
  <config>
-    <SITE value="http://20.89.18.200/Resource/" />
-    <FIRSTPAGE value="http://20.89.18.200:9001/gunny/" />
-    <REGISTER value="http://20.89.18.200:9001/" />
-    <REQUEST_PATH value="http://20.89.18.200/request/" />
-    <LOGIN_PATH value="http://20.89.18.200/gunny/" siteName="DDTank" />
-    <FILL_PATH value="http://20.89.18.200/gunny/" />
+    <SITE value="http://14.225.210.178/Resource/" />
+    <FIRSTPAGE value="http://14.225.210.178:9001/gunny/" />
+    <REGISTER value="http://14.225.210.178:9001/" />
+    <REQUEST_PATH value="http://14.225.210.178/request/" />
+    <LOGIN_PATH value="http://14.225.210.178/gunny/" siteName="DDTank" />
+    <FILL_PATH value="http://14.225.210.178/gunny/" />
 <POLICY_FILES>
 <file value="crossdomain.xml"/>
 </POLICY_FILES>

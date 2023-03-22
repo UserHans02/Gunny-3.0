@@ -1,9 +1,8 @@
 # Source Gunny 3.0 Offline + Online 
  
  ===Config=== <br>
- IP WAN: 20.89.18.200 <br>
- IP LAN: 127.0.0.1<br>
- Data source: 2021-05-27-BuiH\KHANHNGUYENDEV <br>
+ IP: 14.225.210.178 <br>
+ Data source: CRAWLER-WXRB-OJ\SQLEXPRESS <br>
  ===Config===
  ===IIS===<br>
  admingunny => C:\Inetpub\wwwroot\admingunny <br>
